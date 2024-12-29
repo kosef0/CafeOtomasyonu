@@ -1,4 +1,6 @@
 CAFE OTOMASYON PROJESİ 
+-----------------------------
+
 ![Giriş Ekranı](https://github.com/user-attachments/assets/0a6f8e6c-0ded-40d4-b0fb-2cad3db0e7f1) 
 ![AnaSayfa](https://github.com/user-attachments/assets/531480b4-609d-4d1c-bdb3-67a77c743a4f)
 ![Menü Ekranım](https://github.com/user-attachments/assets/efdb6043-d76c-46cc-abaf-0a284d80b629)
