@@ -8,8 +8,9 @@ CAFE OTOMASYON PROJESİ
 ![Raporlar1](https://github.com/user-attachments/assets/dc0a5721-c025-4b17-a30d-65d7c67a2cf2)
 ![Raporlar](https://github.com/user-attachments/assets/e7a846a0-0789-47ac-9b35-1817aff1408b)
 ![Progresbarım](https://github.com/user-attachments/assets/29b0eacc-0278-413d-908c-137e6a765406)
-![Personel](https://github.com/user-attachments/assets/ebbe49b9-6e3d-466f-b961-22c3c0389d9f)
+![399172460-ebbe49b9-6e3d-466f-b961-22c3c0389d9f](https://github.com/user-attachments/assets/974eb4c7-f428-4108-8c9e-2569507a9c6c)
 ![KASA](https://github.com/user-attachments/assets/57eda00a-125a-4266-bd5b-ae75b33d7368)
 ![Kasa Ekranım](https://github.com/user-attachments/assets/90d400cc-e7b3-4f76-8727-d13651271c39)
+
 
 
